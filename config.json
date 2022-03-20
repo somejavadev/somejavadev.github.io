@@ -1,15 +1,4 @@
 {
 	"title" : "Hein Smith",
-	"items" : [
-		{
-			"alt" : "Github",
-			"icon" : "fab fa-github",
-			"link" : "https://github.com/somejavadev"
-		},
-		{
-			"alt" : "Twitter",
-			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/hein_smith"
-		}
-	]
+	"items" : []
 }
